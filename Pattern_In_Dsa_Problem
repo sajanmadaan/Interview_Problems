@@ -1,0 +1,103 @@
+# Trending Coding Patterns for 2025
+
+Beyond system design, coding interviews remain a crucial part of the technical interview process at top tech companies. Here are the most important coding patterns and questions trending in 2025 interviews:
+
+## High-ROI Coding Patterns for 2025
+
+Focusing on these patterns will give you the highest return on investment for your interview preparation:
+
+### 1. Two Pointers Technique
+
+**Applications**: Arrays, strings, linked lists
+**Key Problems**:
+- Two Sum variations (three sum, four sum)
+- Container With Most Water
+- Trapping Rain Water
+- Palindrome verification
+- Removing duplicates
+
+**Example 2025 Question**:
+```
+Design an algorithm to find all unique quadruplets in an array that sum to a target, with O(n³) time complexity and optimized space usage.
+```
+
+### 2. Sliding Window
+
+**Applications**: Arrays, strings, hash tables
+**Key Problems**:
+- Maximum sum subarray of size K
+- Longest substring with K distinct characters
+- Minimum window substring
+- Longest substring without repeating characters
+
+**Example 2025 Question**:
+```
+Given a string and a pattern, find all start indices of pattern's anagrams in the string with optimal time and space complexity.
+```
+
+### 3. Tree & Graph Traversals (DFS/BFS)
+
+**Applications**: Binary trees, graphs, matrices
+**Key Problems**:
+- Path sum variations
+- Binary tree level order traversal
+- Course schedule (topological sort)
+- Number of islands
+- Word ladder
+
+**Example 2025 Question**:
+```
+Design an algorithm to find the shortest path between two nodes in a weighted graph where weights represent time, but some edges can only be traversed during specific time windows.
+```
+
+### 4. Binary Search Variations
+
+**Applications**: Sorted arrays, search space reduction
+**Key Problems**:
+- Search in rotated sorted array
+- Find first and last position of element
+- Median of two sorted arrays
+- Kth smallest element in a sorted matrix
+
+**Example 2025 Question**:
+```
+Design an algorithm to find the kth smallest element in a row-wise and column-wise sorted 2D array with optimal time complexity.
+```
+
+### 5. Dynamic Programming with Optimizations
+
+**Applications**: Optimization problems, counting problems
+**Key Problems**:
+- Longest increasing subsequence
+- Edit distance
+- Coin change
+- Unique paths
+- Knapsack problem variants
+
+**Example 2025 Question**:
+```
+Implement a space-optimized solution for the minimum cost to cut a rod into pieces of specific lengths, where each cut has a different cost.
+```
+
+### 6. Graph Algorithms (Advanced)
+
+**Applications**: Social networks, routing, scheduling
+**Key Problems**:
+- Network delay time
+- Minimum spanning tree
+- Strongly connected components
+- Shortest path algorithms (Dijkstra's, Bellman-Ford)
+
+**Example 2025 Question**:
+```
+Design an algorithm to find the most efficient way to connect multiple servers where connection costs vary based on data transfer rates and physical distance.
+```
+
+### 7. Interval Merging and Processing
+
+**Applications**: Calendar scheduling, resource allocation
+**Key Problems**:
+- Merge intervals
+- Insert interval
+- Meeting rooms
+- Non-overlapping intervals
