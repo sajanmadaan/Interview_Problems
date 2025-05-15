@@ -1,5 +1,3 @@
-# 🚀 FAANG System Design Interview Guide 🚀
-
 ## 25 Must-Do System Design Problems for Tech Interviews
 
 <div align="center">
